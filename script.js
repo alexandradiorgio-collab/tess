@@ -1,5 +1,4 @@
-const message = `u’re afraid of what ur heart remembers. and i understand. love can feel heavy when the past still echoes in all the quiet places inside u. maybe one day, when the trembling settles and u finally feel safe again, we’ll get the chance to take that step we never finished. i'm not asking u to choose now, i'm not asking u to run toward me. i just want u to know that i'm here, not holding u, not pushing u, just staying where ur presence once felt at home. \n\ni'm sorry for what i've done. u told me not to try, not to wait, not to fight for something that scares u. but the truth is, i can’t unfeel what I feel. and u… u’re the kind of person someone naturally chooses to fight for, even in silence, even when u think u’re not worth the effort.
-so i'm here. not to change ur mind, not to pull u back, but simply because waiting for someone like u never feels like a burden. it feels like hope. remember i begged the universe to let it be u.`;
+const message = `u’re afraid of what ur heart remembers. and i understand. love can feel heavy when the past still echoes in all the quiet places inside u. maybe one day, when the trembling settles and u finally feel safe again, we’ll get the chance to take that step we never finished. i'm not asking u to choose now, i just want u to know that i'm here, not holding u, not pushing u, just staying where ur presence once felt at home. i'm sorry for what i've done. u told me not to try, not to wait, not to fight for something that scares u. but the truth is, i can’t unfeel what I feel. and u… u’re the kind of person someone naturally chooses to fight for, even in silence, even when u think u’re not worth the effort. so i'm here. not to change ur mind, not to pull u back, but simply because waiting for someone like u never feels like a burden. it feels like hope. remember i begged the universe to let it be u`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -22,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
